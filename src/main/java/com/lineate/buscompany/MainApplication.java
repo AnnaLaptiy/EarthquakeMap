@@ -465,7 +465,7 @@ public class MainApplication
             link("https://www.skyscanner.com.sa/sa/en-gb/sar/hotels/united-states/adamstown-hotels/ci-46877540?previousCultureSource=URL&redirectedFrom=www.skyscanner.net");
         }
         else if(overButtonGit&&!Service.isHiddenKey()){
-            link("https://github.com/AnnaLaptiy");
+            link("https://github.com/AnnaLaptiy/EarthquakeMap");
 
         }
         else if(overButtonGitMobile&&!Service.isHiddenKey()){
