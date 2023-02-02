@@ -469,7 +469,7 @@ public class MainApplication
 
         }
         else if(overButtonGitMobile&&!Service.isHiddenKey()){
-            link("https://github.com/AnnaLaptiy");
+            link("https://github.com/AnnaLaptiy/Earthquake-Android-Application");
 
         }
         else if(overButtonGitWeb&&!Service.isHiddenKey()){
