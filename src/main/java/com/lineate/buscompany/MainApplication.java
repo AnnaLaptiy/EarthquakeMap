@@ -473,7 +473,7 @@ public class MainApplication
 
         }
         else if(overButtonGitWeb&&!Service.isHiddenKey()){
-            link("https://github.com/AnnaLaptiy");
+            link("https://github.com/AnnaLaptiy/Earthquake-Application-Website");
 
         }
 
