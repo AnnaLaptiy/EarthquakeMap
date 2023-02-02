@@ -462,7 +462,7 @@ public class MainApplication
         } else if (overMyProfile) {
             Service.getProfile().setVisible(true);
         }else if(overButtonWeb&&!Service.isHiddenKey()){
-            link("https://www.skyscanner.com.sa/sa/en-gb/sar/hotels/united-states/adamstown-hotels/ci-46877540?previousCultureSource=URL&redirectedFrom=www.skyscanner.net");
+            link("https://earthquake-website.vercel.app/");
         }
         else if(overButtonGit&&!Service.isHiddenKey()){
             link("https://github.com/AnnaLaptiy/EarthquakeMap");
